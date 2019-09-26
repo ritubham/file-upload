@@ -1,0 +1,31 @@
+{
+  "name": "router",
+  "version": "1.1.3",
+  "description": "abc",
+  "main": "abc",
+  "dependencies": {
+    "ejs": "^2.7.1",
+    "express": "^4.17.1",
+    "express-session": "^1.16.2",
+    "multer": "^1.4.2",
+    "mysql": "^2.17.1",
+    "passport": "^0.4.0",
+    "passport-local": "^1.0.0",
+    "routes": "^2.1.0",
+    "sql": "^0.78.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "abc",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "abc"
+  },
+  "keywords": [
+    "abc"
+  ],
+  "author": "abc",
+  "license": "ISC"
+}
